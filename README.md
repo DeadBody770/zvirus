@@ -15,7 +15,7 @@ Other
 apt install git -y
 
 Installation:
-git clone https://github.com//zVirus-Gen
+git clone https://github.com/DeadBody770/zvirus.git
 
 cd zVirus-Gen
 
