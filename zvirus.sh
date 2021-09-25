@@ -1114,11 +1114,11 @@ elif [ $zCh = 4 ]; then
    fi
 
 elif [ $zCh = 5 ]; then
-echo -e "\e[92mCoded By:\e[0m\e[94m Zech Bron\e[0m"
+echo -e "\e[92mCoded By:\e[0m\e[94m Dead_Body770\e[0m"
 echo -e "\e[92mCredits To:\e[0m \e[94mGameye98 & LOolzeC"
 echo -e " I don't know where they find those viruses.\e[0m\n"
 
-echo -e "\e[36mIf you encounter an error. Please send me a message here \e[0m\e[96m'zech@mbox.re'\e[0m\e[0m\n"
+echo -e "\e[36mIf you encounter an error. Please send me a message here \e[0m\e[96m'domarizk770@gmail.com'\e[0m\e[0m\n"
 
 echo -e "\e[92mFUTURE UPDATES:\e[0m"
 echo -e "\e[32mVersion 1.4\e[0m"
@@ -1127,7 +1127,7 @@ echo -e "\e[34m -> Additional download link incase the other one didn't work."
 echo -e " -> Bat files will be converted into exe file so the victim would think that it is a legit deskop app."
 echo -e " -> I will also include my dangerous or a little bit dangerous programs"
 echo -e " -> Converted into Python 3\e[0m"
-echo -e "NOTE:\n If you have any suggestions, comments, questions or anything. Just email me here: zech@mbox.re"
+echo -e "NOTE:\n If you have any suggestions, comments, questions or anything. Just shut up"
 else
       echo -e "\e[91mWrong input. Try again.\e[0m"
 fi
